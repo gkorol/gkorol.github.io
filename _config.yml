@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Guilherme Korol"
-  avatar           : "files/perfil.jpg"
+  avatar           : "perfil.jpg"
   bio              : "Ph.D. Student"
   location         : "Porto Alegre - Brazil"
   employer         : "UFRGS"
