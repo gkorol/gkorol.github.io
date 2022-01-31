@@ -25,7 +25,7 @@ author_profile: true
 
 * *[Power-aware phase oriented reconfigurable architecture](https://ieeexplore.ieee.org/abstract/document/8965011)*, **Guilherme Korol**, Michael Jordan, Marcelo Brandalero, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at ICECS 2019.
 
-# Colaborations:
+# Colaborations
 
 * *[An energy efficient multi-target binary translator for instruction and data level parallelism exploitation]()*, Tiago Knorst, Julio Vicenzi, Michael G Jordan, Jonathan H de Almeida, **Guilherme Korol**, Antonio Beck, and Mateus B Rutzig at Design Automation for Embedded Systems 2022.
 
