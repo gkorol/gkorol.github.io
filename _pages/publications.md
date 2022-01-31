@@ -15,8 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# Publications
-
 * *[Synergistically Exploiting CNN Pruning and HLS Versioning for Adaptive Inference on Multi-FPGAs at the Edge](https://dl.acm.org/doi/abs/10.1145/3476990)*, Guilherme Korol, Michael Jordan, Mateus Beck, and Antonio Carlos Schneider Beck at CASES 2021 (published in TECS).
 
 * *[MCEA: A Resource-Aware Multicore CGRA Architecture for the Edge](https://ieeexplore.ieee.org/abstract/document/9221626)*, Guilherme Korol, Michael Guilherme Jordan, Marcelo Brandalero, Michael Hübner, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at FPL 2020.
