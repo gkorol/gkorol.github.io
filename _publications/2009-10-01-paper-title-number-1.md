@@ -1,9 +1,4 @@
----
-title: "Publications"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'My publications.'
----
+# Publications
 
 * *[Synergistically Exploiting CNN Pruning and HLS Versioning for Adaptive Inference on Multi-FPGAs at the Edge](https://dl.acm.org/doi/abs/10.1145/3476990)*, Guilherme Korol, Michael Jordan, Mateus Beck, and Antonio Carlos Schneider Beck at CASES 2021 (published in TECS).
 
