@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Guilherme dos Santos Korol, I'm a Ph.D. Student in the [Computer Science](https://www.inf.ufrgs.br/ppgc/) program at the [Federal University of Rio Grande do Sul](http://www.ufrgs.br/ufrgs/inicial) (or UFRGS). I work at the [LSE](http://www.inf.ufrgs.br/lse/) research group under the supervision of professor [Antonio Beck](http://www.inf.ufrgs.br/~caco/).
+My name is Guilherme dos Santos Korol, I'm a Ph.D. Student in the [Computer Science](https://www.inf.ufrgs.br/ppgc/) program at the [Federal University of Rio Grande do Sul](http://www.ufrgs.br/ufrgs/inicial) (or UFRGS) in Brazil. I work at the [LSE](http://www.inf.ufrgs.br/lse/) research group under the supervision of professor [Antonio Beck](http://www.inf.ufrgs.br/~caco/).
 
 ### More about me:
 
