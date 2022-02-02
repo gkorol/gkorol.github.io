@@ -26,7 +26,9 @@ author_profile: true
 
 ### 2019
 *[A FPGA parameterizable multi-layer architecture for CNNs](https://ieeexplore.ieee.org/abstract/document/8862024)*, **Guilherme Korol** and Fernando Gehm Moraes at SBCCI 2019.
+
 *[A runtime power-aware phase predictor for CGRAs]()*, **Guilherme Korol**, Michael Jordan, Raul Silveira Silva, Monica Magalhães Pereira, Marcelo Brandalero, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at ReConFig 2019.
+
 *[Power-aware phase oriented reconfigurable architecture](https://ieeexplore.ieee.org/abstract/document/8965011)*, **Guilherme Korol**, Michael Jordan, Marcelo Brandalero, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at ICECS 2019.
 
 # Colaborations
