@@ -18,6 +18,8 @@ author_profile: true
 ### 2022
 *[ADAFLOW: A FRAMEWORK FOR ADAPTIVE DATAFLOW CNN ACCELERATION ON FPGAS]()*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at DATE 2022 ***(Best Paper Nominee)***.
 
+*[ConfAx: Exploiting Approximate Computing for Configurable FPGA CNN Acceleration at the Edge]()*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at ISCAS 2022.
+
 ### 2021
 *[Synergistically Exploiting CNN Pruning and HLS Versioning for Adaptive Inference on Multi-FPGAs at the Edge](https://dl.acm.org/doi/abs/10.1145/3476990)*, **Guilherme Korol**, Michael Jordan, Mateus Beck, and Antonio Carlos Schneider Beck at CASES 2021 (published in TECS).
 
