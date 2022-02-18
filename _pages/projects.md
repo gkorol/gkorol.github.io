@@ -5,6 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
+### A Resource-Aware Multicore CGRA Architecture for Edge Applications
+
+<img src=https://gkorol.github.io/images/mestrado.png alt="Conv. layer" style="float: left; height: 150px; width:350px;"/> &nbsp;&nbsp;&nbsp;
+
+Project carried out during my Mater's Thesis under supervision of professor Antonio Carlos Beck and Marcelo Brandalero.
+
 
 ### A FPGA parameterizable multi-layer architecture for CNNs
 
