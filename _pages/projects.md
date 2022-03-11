@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Research Projects"
 permalink: /projects/
 author_profile: true
 ---
@@ -13,7 +13,7 @@ Project carried out during my [Mater's Thesis](https://www.lume.ufrgs.br/handle/
 
 ### A FPGA parameterizable multi-layer architecture for CNNs
 
-Work done as my final undergraduate project under supervision of professor Fernando Moraes. VHDL implementation of a parameterizable FPGA-based CNN accelerator. Processing Element is based on accumulators and an adder tree. We used AlexNet as a case study for this project. Besides the [paper](https://ieeexplore.ieee.org/abstract/document/8862024), more detailed information about this work can be found [here](https://www.inf.pucrs.br/moraes/docs/tcc/tcc_korol.pdf). 
+Work done as my final undergraduate project under supervision of professor Fernando Gehm Moraes at PUCRS. VHDL implementation of a parameterizable FPGA-based CNN accelerator. Processing Element is based on accumulators and an adder tree. We used AlexNet as a case study for this project. Besides the [paper](https://ieeexplore.ieee.org/abstract/document/8862024), more detailed information about this work can be found [here](https://www.inf.pucrs.br/moraes/docs/tcc/tcc_korol.pdf). 
 
 ![Conv. layer](https://gkorol.github.io/images/tcc.png)
 
