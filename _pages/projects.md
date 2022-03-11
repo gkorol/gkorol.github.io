@@ -18,4 +18,6 @@ Work done as my final undergraduate project under supervision of professor Ferna
 ![Conv. layer](https://gkorol.github.io/images/tcc.png)
 
 
-
+I am also co-advising undergrad final projects in our group: 
+- on 'FPGA-based Inference for 5G' by Daniel de O. Rubiano (with Prof. Antonio Carlos);
+- on 'Multi-Plataform Deep Learning Inference' by Eduardo Guerra (with Prof. Antonio Carlos).
