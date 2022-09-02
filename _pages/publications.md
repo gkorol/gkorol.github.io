@@ -36,7 +36,9 @@ author_profile: true
 # Colaborations
 
 ### 2022
-*[An energy efficient multi-target binary translator for instruction and data level parallelism exploitation]()*, Tiago Knorst, Julio Vicenzi, Michael G Jordan, Jonathan H de Almeida, **Guilherme Korol**, Antonio Beck, and Mateus B Rutzig at Design Automation for Embedded Systems 2022.
+*[ERIN: Energy-Aware Resource Provisioning Framework for CPU-FPGA Multi-tenant Environment](https://ieeexplore.ieee.org/abstract/document/9800960)*, Michael Guilherme Jordan, **Guilherme Korol**, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at IEEE Design & Test 2022.
+
+*[An energy efficient multi-target binary translator for instruction and data level parallelism exploitation](https://link.springer.com/article/10.1007/s10617-021-09258-6)*, Tiago Knorst, Julio Vicenzi, Michael G Jordan, Jonathan H de Almeida, **Guilherme Korol**, Antonio Beck, and Mateus B Rutzig at Design Automation for Embedded Systems 2022.
 
 ### 2021
 *[TRIPP: Transparent Resource Provisioning for Multi-Tenant CPU-GPU based Cloud Environments](https://ieeexplore.ieee.org/abstract/document/9628223)*, Julio Costella Vicenzi, Tiago Knorst, Michael G Jordan, **Guilherme Korol**, Antonio Carlos Schneider Beck, and Mateus Beck Rutzig at SBESC 2021 ***(Best Paper Nominee)***.
