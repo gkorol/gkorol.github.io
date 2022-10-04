@@ -36,7 +36,7 @@ author_profile: true
 # Colaborations
 
 ### 2022
-*[On the benefits of Collaborative Thread Throttling and HLS-Versioning in CPU-FPGA Environments](https://ieeexplore.ieee.org/abstract/document/9893223)*, Tiago Knorst, **Guilherme Korol**, Michael Guilherme Jordan, Julio Costella Vicenzi, Arthur Lorenzon, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at IEEE Design & Test 2022.
+*[On the benefits of Collaborative Thread Throttling and HLS-Versioning in CPU-FPGA Environments](https://ieeexplore.ieee.org/abstract/document/9893223)*, Tiago Knorst, **Guilherme Korol**, Michael Guilherme Jordan, Julio Costella Vicenzi, Arthur Lorenzon, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at SBCCI 2022.
 
 *[ERIN: Energy-Aware Resource Provisioning Framework for CPU-FPGA Multi-tenant Environment](https://ieeexplore.ieee.org/abstract/document/9800960)*, Michael Guilherme Jordan, **Guilherme Korol**, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at IEEE Design & Test 2022.
 
