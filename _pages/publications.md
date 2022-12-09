@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+### 2023
+*[Pruning and Early-Exit Co-Optimization for CNN Acceleration on FPGAs]()*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, Jeronimo Castrillon, and Antonio Carlos Schneider Beck at DATE 2023.
+
 ### 2022
 *[AdaFlow: A Framework for Adaptive Dataflow CNN Acceleration on FPGAS](https://ieeexplore.ieee.org/document/9774727)*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at DATE 2022 ***(Best Paper Nominee)***.
 
