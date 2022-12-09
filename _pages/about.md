@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Guilherme dos Santos Korol, I'm a Ph.D. Student in the [Computer Science](https://www.inf.ufrgs.br/ppgc/) program at the [Federal University of Rio Grande do Sul](http://www.ufrgs.br/ufrgs/inicial) (UFRGS) in Brazil. I work at the [LSE](http://www.inf.ufrgs.br/lse/) research group under the supervision of Professor [Antonio Beck](http://www.inf.ufrgs.br/~caco/).
+My name is Guilherme dos Santos Korol, I'm a Ph.D. Student in the [Computer Science](https://www.inf.ufrgs.br/ppgc/) program at the [Federal University of Rio Grande do Sul](http://www.ufrgs.br/ufrgs/inicial) (UFRGS) in Brazil. I work at the [LSE](http://www.inf.ufrgs.br/lse/) research group under the supervision of Professor [Antonio Beck](http://www.inf.ufrgs.br/~caco/). As of September 2022, I'm also a visiting Ph.D. student at the [Chair for Compiler Construction](https://cfaed.tu-dresden.de/ccc-about) at the Computer Science Department of the [TU Dresden](https://tu-dresden.de/?set_language=en) under the supervision of Professor [Jeronimo Castrillon](https://cfaed.tu-dresden.de/ccc-staff-castrillon).
 
 My research areas are **Computer Architecture**, **Reconfigurable Computing**, and **Machine Learning**. Currently, my work targets efficient execution of Deep Neural Networks (DNN) on FPGAs. I investigate how optimization methods like pruning, quantization, and approximate computing can be leveraged to improve the FPGA execution of DNNs - especially under constrained environments like the Edge.
 
