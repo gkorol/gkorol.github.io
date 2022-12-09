@@ -23,6 +23,6 @@ Project carried out during my internship at CapTech/NASA in 2015. The work was p
 
 ![Cubesat](https://gkorol.github.io/images/cubesat.png)
 
-I am also co-advising undergrad final projects in our group: 
+I am also co-advising bachelor final projects in our group: 
 - 'FPGA-based Inference for 5G' by Daniel de O. Rubiano (with Prof. Antonio Carlos);
 - 'Multi-Plataform Deep Learning Inference' by Eduardo Guerra (with Prof. Antonio Carlos).
