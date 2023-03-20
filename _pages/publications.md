@@ -39,6 +39,8 @@ author_profile: true
 # Colaborations
 
 ### 2023
+*[Adaptive Inference on Reconfigurable SmartNICs for Traffic Classification](https://link.springer.com/chapter/10.1007/978-3-031-28451-9_12)*, Julio Costella Vicenzi, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at AINA 2023.
+
 *[Adaptive Inference for FPGA-based 5G Automatic Modulation Classification]()*, Daniel de Oliveira Rubiano, **Guilherme Korol**, and Antonio Carlos Schneider Beck at DASIP 2023.
 
 ### 2022
