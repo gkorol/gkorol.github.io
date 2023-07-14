@@ -41,7 +41,11 @@ author_profile: true
 ### 2023
 *[Adaptive Inference on Reconfigurable SmartNICs for Traffic Classification](https://link.springer.com/chapter/10.1007/978-3-031-28451-9_12)*, Julio Costella Vicenzi, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at AINA 2023.
 
-*[Adaptive Inference for FPGA-based 5G Automatic Modulation Classification]()*, Daniel de Oliveira Rubiano, **Guilherme Korol**, and Antonio Carlos Schneider Beck at DASIP 2023.
+*[Adaptive Inference for FPGA-based 5G Automatic Modulation Classification](https://link.springer.com/chapter/10.1007/978-3-031-29970-4_8)*, Daniel de Oliveira Rubiano, **Guilherme Korol**, and Antonio Carlos Schneider Beck at DASIP 2023.
+
+*[MVSym: Efficient symbiotic exploitation of HLS-kernel multi-versioning for collaborative CPU-FPGA cloud systems](https://www.sciencedirect.com/science/article/abs/pii/S0167926023000949)*, Michael Guilherme Jordan, Bernardo Neuhaus Lignati, **Guilherme Korol**, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at Integration 2023.
+
+*[Energy-aware fully-adaptive resource provisioning in collaborative CPU-FPGA cloud environments](https://www.sciencedirect.com/science/article/abs/pii/S0743731523000308)*, Michael Guilherme Jordan, **Guilherme Korol**, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at Journal of Parallel and Distributed Computing 2023.
 
 ### 2022
 *[On the benefits of Collaborative Thread Throttling and HLS-Versioning in CPU-FPGA Environments](https://ieeexplore.ieee.org/abstract/document/9893223)*, Tiago Knorst, **Guilherme Korol**, Michael Guilherme Jordan, Julio Costella Vicenzi, Arthur Lorenzon, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at SBCCI 2022.
