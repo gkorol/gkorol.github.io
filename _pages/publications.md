@@ -16,12 +16,14 @@ author_profile: true
 {% endfor %}
 
 ### 2023
-*[Pruning and Early-Exit Co-Optimization for CNN Acceleration on FPGAs]()*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, Jeronimo Castrillon, and Antonio Carlos Schneider Beck at DATE 2023.
+*[Design Space Exploration for CNN Offloading to FPGAs at the Edge]()*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, Jeronimo Castrillon, and Antonio Carlos Schneider Beck at ISVLSI 2023.
+
+*[Pruning and Early-Exit Co-Optimization for CNN Acceleration on FPGAs](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2304_Korol_DATE.pdf)*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, Jeronimo Castrillon, and Antonio Carlos Schneider Beck at DATE 2023.
 
 ### 2022
 *[AdaFlow: A Framework for Adaptive Dataflow CNN Acceleration on FPGAS](https://ieeexplore.ieee.org/document/9774727)*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at DATE 2022 ***(Best Paper Nominee)***.
 
-*[ConfAx: Exploiting Approximate Computing for Configurable FPGA CNN Acceleration at the Edge]()*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at ISCAS 2022.
+*[ConfAx: Exploiting Approximate Computing for Configurable FPGA CNN Acceleration at the Edge](https://ieeexplore.ieee.org/abstract/document/9937676/)*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at ISCAS 2022.
 
 ### 2021
 *[Synergistically Exploiting CNN Pruning and HLS Versioning for Adaptive Inference on Multi-FPGAs at the Edge](https://dl.acm.org/doi/abs/10.1145/3476990)*, **Guilherme Korol**, Michael Jordan, Mateus Beck, and Antonio Carlos Schneider Beck at CASES 2021 (published in ACM TECS).
@@ -39,6 +41,12 @@ author_profile: true
 # Colaborations
 
 ### 2023
+*[Dynamic Offloading for Improved Performance and Energy Efficiency in Heterogeneous IoT-Edge-Cloud Continuum](https://ieeexplore.ieee.org/abstract/document/10238564)*, Julio Costella Vicenzi, **Guilherme Korol**, Michael G. Jordan, Wagner Ourique de Morais, Hazem Ali, Edison Pignaton de Freitas,Mateus Beck Rutzig, Antonio Carlos Schneider Beck at ISVLSI 2023.
+
+*[Harnessing the Effects of Process Variability to Mitigate Aging in Cloud Servers](https://ieeexplore.ieee.org/abstract/document/10238501)*, Arthur F. Lorenzon, Guilherme Korol, Marcelo Brandalero, Antonio Carlos Schneider Beck at ISVLSI 2023.
+
+*[Resource Provisioning for CPU-FPGA Environments with Adaptive HLS-Versioning and DVFS](https://ieeexplore.ieee.org/abstract/document/10238639)*, Michael Guilherme Jordan, **Guilherme Korol**, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at ISVLSI 2023.
+
 *[Adaptive Inference on Reconfigurable SmartNICs for Traffic Classification](https://link.springer.com/chapter/10.1007/978-3-031-28451-9_12)*, Julio Costella Vicenzi, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at AINA 2023.
 
 *[Adaptive Inference for FPGA-based 5G Automatic Modulation Classification](https://link.springer.com/chapter/10.1007/978-3-031-29970-4_8)*, Daniel de Oliveira Rubiano, **Guilherme Korol**, and Antonio Carlos Schneider Beck at DASIP 2023.
