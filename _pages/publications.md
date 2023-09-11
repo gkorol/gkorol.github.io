@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ### 2023
-*[Design Space Exploration for CNN Offloading to FPGAs at the Edge]()*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, Jeronimo Castrillon, and Antonio Carlos Schneider Beck at ISVLSI 2023.
+*[Design Space Exploration for CNN Offloading to FPGAs at the Edge](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2306_Korol_ISVLSI.pdf)*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, Jeronimo Castrillon, and Antonio Carlos Schneider Beck at ISVLSI 2023.
 
 *[Pruning and Early-Exit Co-Optimization for CNN Acceleration on FPGAs](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2304_Korol_DATE.pdf)*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, Jeronimo Castrillon, and Antonio Carlos Schneider Beck at DATE 2023.
 
