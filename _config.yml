@@ -87,7 +87,7 @@ author:
   employer         : "UFRGS"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Nscn1awAAAAJ"
-  email            : "gskorol@inf.ufrgs.br"
+  email            : ["gskorol@inf.ufrgs.br","korol.guilherme@gmail.com"]
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
