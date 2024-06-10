@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+### 2024
+*[Adaptive and Offloaded CNNs for IoT-Edge FPGAs]()*,**Guilherme Korol**, Hiago Rocha, and Antonio Carlos Schneider Beck at ISVLSI 2024 ***(Best Paper Nominee)***.
+
 ### 2023
 *[Design Space Exploration for CNN Offloading to FPGAs at the Edge](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2306_Korol_ISVLSI.pdf)*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, Jeronimo Castrillon, and Antonio Carlos Schneider Beck at ISVLSI 2023.
 
@@ -39,6 +42,9 @@ author_profile: true
 *[Power-aware phase oriented reconfigurable architecture](https://ieeexplore.ieee.org/abstract/document/8965011)*, **Guilherme Korol**, Michael Jordan, Marcelo Brandalero, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at ICECS 2019.
 
 # Colaborations
+
+### 2024
+*[Enhancing Graph Execution for Performance and Energy Efficiency on NUMA Machines]()*, Hiago Rocha, Marcelo Koji Moori, **Guilherme Korol**, Arthur Francisco Lorenzon, and Antonio Carlos Schneider Beck at ISVLSI 2024.
 
 ### 2023
 *[Dynamic Offloading for Improved Performance and Energy Efficiency in Heterogeneous IoT-Edge-Cloud Continuum](https://ieeexplore.ieee.org/abstract/document/10238564)*, Julio Costella Vicenzi, **Guilherme Korol**, Michael G. Jordan, Wagner Ourique de Morais, Hazem Ali, Edison Pignaton de Freitas,Mateus Beck Rutzig, Antonio Carlos Schneider Beck at ISVLSI 2023.
