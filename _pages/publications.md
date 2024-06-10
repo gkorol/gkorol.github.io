@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ### 2024
-*[Adaptive and Offloaded CNNs for IoT-Edge FPGAs]()*,**Guilherme Korol**, Hiago Rocha, and Antonio Carlos Schneider Beck at ISVLSI 2024 ***(Best Paper Nominee)***.
+*[Adaptive and Offloaded CNNs for IoT-Edge FPGAs]()*, **Guilherme Korol**, Hiago Rocha, and Antonio Carlos Schneider Beck at ISVLSI 2024 ***(Best Paper Nominee)***.
 
 ### 2023
 *[Design Space Exploration for CNN Offloading to FPGAs at the Edge](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2306_Korol_ISVLSI.pdf)*, **Guilherme Korol**, Michael Guilherme Jordan, Mateus Beck Rutzig, Jeronimo Castrillon, and Antonio Carlos Schneider Beck at ISVLSI 2023.
