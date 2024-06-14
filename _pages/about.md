@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Guilherme dos Santos Korol, I'm a postdoctoral researcher at the [Chair for Compiler Construction](https://cfaed.tu-dresden.de/ccc-about) (CCC) at the Computer Science Department of [TU Dresden](https://tu-dresden.de/?set_language=en). For my PhD, I was with the [Computer Science](https://www.inf.ufrgs.br/ppgc/) program at the [Federal University of Rio Grande do Sul](http://www.ufrgs.br/ufrgs/inicial) (UFRGS) in Brazil. There, I worked under the supervision of Professor [Antonio Beck](http://www.inf.ufrgs.br/~caco/). Between September 2022 and April 2023, I was also with the CCC under the supervision of Professor [Jeronimo Castrillon](https://cfaed.tu-dresden.de/ccc-staff-castrillon).
 
-My research areas are **Computer Architecture**, **Reconfigurable Computing**, and **compilers** for **Deep Learning**. In my PhD, my work targeted efficient execution of Deep Neural Networks (DNN) on FPGAs. I investigated how optimization methods (from the ones at the hardware level like approximate computing and HLS to the ones at the DNN level like pruning, quantization, and early-exit) can improve the FPGA execution of DNNs - especially under constrained environments like the IoT-edge.
+My research areas are **Computer Architecture**, **Reconfigurable Computing**, and **Compilers** for **Deep Learning**. In my PhD, my work targeted efficient execution of Deep Neural Networks (DNN) on FPGAs. I investigated how optimization methods (from the ones at the hardware level like approximate computing and HLS to the ones at the DNN level like pruning, quantization, and early-exit) can improve the FPGA execution of DNNs - especially under constrained environments like the IoT-edge.
 
 ### *More about me:*
 
