@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Optimizing for Adaptive Inference on FPGAs: A Multi-Level Dynamic Approach
-This is my ongoing PhD thesis project. Until now, we have been investigating how we can best use the optimizations out there to deliver efficient inference on FPGAs at the edge. From optimizations at the hardware level to optimizations at the algorithmic level, we want to understand how they behave with each other and their joint impact on relevant metrics like accuracy, energy, and performance. My PhD started in March 2020 and is expected to end in March 2024.
+This was my PhD thesis project. We investigated how we can best use the optimizations out there to deliver efficient inference on FPGAs at the edge. From optimizations at the hardware level to optimizations at the algorithmic level, we want to understand how they behave with each other and their joint impact on relevant metrics like accuracy, energy, and performance. My PhD started in March 2020 and ended in March 2024, resulting in several publications, many collaborations, and a few funding projects.
 
 ![phd](https://gkorol.github.io/images/background_simple.png)
 
