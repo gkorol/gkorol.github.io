@@ -44,6 +44,12 @@ author_profile: true
 # Colaborations
 
 ### 2024
+*[Exploiting Virtual Layers and Pruning for FPGA-based Adaptive Traffic Classification]()*, Julio Costella Vicenzi, **Guilherme Korol**, Michael G. Jordan, Mateus Beck Rutzig, Antonio Carlos Schneider Beck at DSD 2024.
+
+*[TARA: Enhancing Real-Time Network Traffic Classification with Hardware Virtual Layers]()*, Julio Costella Vicenzi, Michael G. Jordan, **Guilherme Korol**, Tiago Knorst, Antonio Carlos Schneider Beck at SBCCI 2024.
+
+*[Image Classification CNNs using FINN Engine for SRAM-based APSoC in Satellite Applications])*, Arthur Ely, Fabio Benevenuti, Guilherme Korol, Antonio Carlos Schneider Beck, Jose Rodrigo Azambuja, Fernanda Kastensmidt at SBCCI 2024.
+
 *[Enhancing Graph Execution for Performance and Energy Efficiency on NUMA Machines]()*, Hiago Rocha, Marcelo Koji Moori, **Guilherme Korol**, Arthur Francisco Lorenzon, and Antonio Carlos Schneider Beck at ISVLSI 2024.
 
 ### 2023
