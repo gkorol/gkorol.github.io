@@ -44,7 +44,7 @@ author_profile: true
 # Colaborations
 
 ### 2024
-*[Leveraging the MLIR infrastructure for the computing continuum](https://www.cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2409_BI_CPSW.pdf)*, Jiahong Bi1, **Guilherme Korol**, and Jeronimo Castrillon at CPSW 2024.
+*[Leveraging the MLIR infrastructure for the computing continuum](https://www.cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2409_BI_CPSW.pdf)*, Jiahong Bi, **Guilherme Korol**, and Jeronimo Castrillon at CPSW 2024.
 
 *[An Automatic Framework for Collaborative CPU Thread Throttling and FPGA HLS-Versioning](https://ieeexplore.ieee.org/abstract/document/10771920)*,  Tiago Knorst, Michael Guilherme Jordan, **Guilherme Korol**, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck at SBESC 2024.
 
