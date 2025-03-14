@@ -16,6 +16,9 @@ author_profile: true
 {% endfor %}
 
 ### 2024
+*[IoT–Edge Splitting With Pruned Early-Exit CNNs for Adaptive Inference]([https://ieeexplore.ieee.org/abstract/document/10909993/)*, **Guilherme Korol** and Antonio Carlos Schneider Beck at IEEE Transactions on Very Large Scale Integration (VLSI) Systems.
+
+### 2024
 *[Adaptive and Offloaded CNNs for IoT-Edge FPGAs](https://ieeexplore.ieee.org/abstract/document/10682711)*, **Guilherme Korol**, Hiago Rocha, and Antonio Carlos Schneider Beck at ISVLSI 2024 ***(Best Paper Nominee)***.
 
 ### 2023
