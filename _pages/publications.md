@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %}
 
 ### 2025
+*[Leveraging Stochastic Depth Training for Adaptive Inference](https://arxiv.org/pdf/2505.17626)*, **Guilherme Korol**, Antonio Carlos Schneider, and Jeronimo Castrillon Beck at arXiv preprint 2025.
+
 *[IoT–Edge Splitting With Pruned Early-Exit CNNs for Adaptive Inference](https://ieeexplore.ieee.org/abstract/document/10909993/)*, **Guilherme Korol** and Antonio Carlos Schneider Beck at IEEE Transactions on Very Large Scale Integration (VLSI) Systems 2025.
 
 ### 2024
