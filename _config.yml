@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Guilherme Korol"
   avatar           : "profile.jpg"
-  bio              : "Researcher / AI Engineer"
+  bio              : "AI/ML Compiler Engineer"
   location         : "Germany"
-  employer         : "TUD / NXP"
+  employer         : "NXP"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Nscn1awAAAAJ"
-  email            : "guilherme.korol@tu-dresden.de,guilherme.korol@nxp.com"
+  email            : "guilherme.korol@nxp.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
